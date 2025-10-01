@@ -34,8 +34,8 @@ export const storeState: MainState = {
   playerAutoplay: true, // 【开关】是否自动播放
   playerLoop: "all", // 【开关】循环播放 "all", "one", "none"
   playerOrder: "random", // 【开关】循环顺序 "list", "random"
-  webSpeech: true, // 【开关】网页语音交互总开关（包含播报歌名功能）
-  playerSpeechName: true, // 【开关】播报歌名
+  webSpeech: false, // 【开关】网页语音交互总开关（包含播报歌名功能）
+  playerSpeechName: false, // 【开关】播报歌名
   playerDWRCShow: true, // 【开关】逐字歌词解析总开关
   playerDWRCShowPro: true, // 【开关】逐字效果增强开关
   playerDWRCATDB: true, // 【开关】允许接入 AMLL TTML Database

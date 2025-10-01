@@ -2,36 +2,81 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.hanze.icu/"
+  },
+  {
+    "icon": "Blog",
+    "name": "空间",
+    "link": "https://space.hanze.icu/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://cloud.hanze.icu/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://yes.hanze.icu/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://nav.hanze.icu/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "哔咔哔咔",
+    "link": "https://pica.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "Pixiv",
+    "link": "https://pixiv.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "mmPlayer",
+    "link": "https://music-mm.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "SPlayer",
+    "link": "https://music-sp.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "邮箱",
+    "link": "https://mail.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "MC服务器监测",
+    "link": "https://mcs.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "图标制作",
+    "link": "https://icon.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "记事本",
+    "link": "https://note.hanze.icu/"
+  },
+  {
+    "icon": "Book",
+    "name": "每日新闻",
+    "link": "https://news.hanze.icu/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.hanze.icu/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.hanze.icu/"
   }
 ]
