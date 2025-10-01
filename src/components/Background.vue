@@ -109,17 +109,17 @@ const changeBg = async (type) => {
           };
         } else if (deviceType === 'tablet' || deviceType === 'pc') {
           if (key) {
-            const bgUrlS = `/images/background${bgRandom}.jpg`;
+            const bgUrlS = `/images/background${bgRandom}.png`;
             bgUrl.value = await gasC(bgUrlS, key);
           } else {
-            bgUrl.value = `/images/background${bgRandom}.jpg`;
+            bgUrl.value = `/images/background${bgRandom}.png`;
           };
         } else {
           if (key) {
-            const bgUrlS = `/images/background${bgRandom}.jpg`;
+            const bgUrlS = `/images/background${bgRandom}.png`;
             bgUrl.value = await gasC(bgUrlS, key);
           } else {
-            bgUrl.value = `/images/background${bgRandom}.jpg`;
+            bgUrl.value = `/images/background${bgRandom}.png`;
           };
         };
       } else if (type == 1) {
