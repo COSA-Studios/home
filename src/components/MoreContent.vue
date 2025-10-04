@@ -1,7 +1,7 @@
 <template>
   <div class="more-content">
     <span class="greeting">
-      世界就是一个草台班子！
+      世界就是一个巨大的草台班子！
     </span>
   </div>
 </template>
