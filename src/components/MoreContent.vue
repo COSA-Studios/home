@@ -1,7 +1,7 @@
 <template>
   <div class="more-content">
     <span class="greeting">
-      您可在此编写任意内容
+      世界就是一个草台班子！
     </span>
   </div>
 </template>
