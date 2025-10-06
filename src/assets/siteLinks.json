@@ -35,14 +35,9 @@
     "link": "https://pixiv.hanze.icu/"
   },
   {
-    "icon": "Book",
+    "icon": "CompactDisc",
     "name": "mmPlayer",
     "link": "https://music-mm.hanze.icu/"
-  },
-  {
-    "icon": "Book",
-    "name": "SPlayer",
-    "link": "https://music-sp.hanze.icu/"
   },
   {
     "icon": "Book",
@@ -63,16 +58,6 @@
     "icon": "Book",
     "name": "记事本",
     "link": "https://note.hanze.icu/"
-  },
-  {
-    "icon": "Book",
-    "name": "每日新闻",
-    "link": "https://news.hanze.icu/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.hanze.icu/"
   },
   {
     "icon": "LaptopCode",
