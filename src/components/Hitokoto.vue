@@ -50,8 +50,8 @@ const getHitokotoData = async () => {
         fill: "var(--el-message-icon-color)",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "無名";
+    hitokotoData.text = "用代码表达言语的魅力，用代码书写山河的壮丽。";
+    hitokotoData.from = "一言";
     if (store.webSpeech) {
       stopSpeech();
       const voice = import.meta.env.VITE_TTS_Voice;

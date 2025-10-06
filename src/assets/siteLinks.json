@@ -5,7 +5,7 @@
     "link": "https://blog.hanze.icu/"
   },
   {
-    "icon": "Blog",
+    "icon": "PenSquare",
     "name": "空间",
     "link": "https://space.hanze.icu/"
   },
@@ -24,44 +24,39 @@
     "name": "起始页",
     "link": "https://nav.hanze.icu/"
   },
-  {
-    "icon": "Book",
-    "name": "哔咔哔咔",
-    "link": "https://pica.hanze.icu/"
-  },
-  {
-    "icon": "Book",
-    "name": "Pixiv",
-    "link": "https://pixiv.hanze.icu/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "mmPlayer",
-    "link": "https://music-mm.hanze.icu/"
-  },
-  {
-    "icon": "Book",
+    {
+    "icon": "Envelope",
     "name": "邮箱",
     "link": "https://mail.hanze.icu/"
   },
   {
     "icon": "Book",
-    "name": "MC服务器监测",
-    "link": "https://mcs.hanze.icu/"
+    "name": "哔咔",
+    "link": "https://pica.hanze.icu/"
   },
   {
-    "icon": "Book",
-    "name": "图标制作",
+    "icon": "Images",
+    "name": "蓝P",
+    "link": "https://pixiv.hanze.icu/"
+  },
+  {
+    "icon": "Music",
+    "name": "mmPlayer",
+    "link": "https://music-mm.hanze.icu/"
+  },
+  {
+    "icon": "PencilRuler",
+    "name": "图标",
     "link": "https://icon.hanze.icu/"
   },
   {
-    "icon": "Book",
-    "name": "记事本",
+    "icon": "StickyNote",
+    "name": "速记",
     "link": "https://note.hanze.icu/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
+    "name": "监测",
     "link": "https://status.hanze.icu/"
   }
 ]
