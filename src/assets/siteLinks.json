@@ -2,12 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://life.hanze.icu/"
+    "link": "https://blog.hanze.icu/"
   },
   {
     "icon": "PenSquare",
     "name": "空间",
     "link": "https://space.hanze.icu/"
+  },
+    {
+    "icon": "PenSquare",
+    "name": "动态",
+    "link": "https://life.hanze.icu/"
   },
   {
     "icon": "Cloud",
@@ -38,21 +43,6 @@
     "icon": "Images",
     "name": "蓝P",
     "link": "https://pixiv.hanze.icu/"
-  },
-  {
-    "icon": "Music",
-    "name": "mmPlayer",
-    "link": "https://music-mm.hanze.icu/"
-  },
-  {
-    "icon": "PencilRuler",
-    "name": "图标",
-    "link": "https://icon.hanze.icu/"
-  },
-  {
-    "icon": "StickyNote",
-    "name": "速记",
-    "link": "https://note.hanze.icu/"
   },
   {
     "icon": "LaptopCode",
