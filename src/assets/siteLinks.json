@@ -15,9 +15,14 @@
     "link": "https://life.hanze.icu/"
   },
   {
+    "icon": "Images",
+    "name": "相册",
+    "link": "https://yes.hanze.icu/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://cloud.hanze.icu/"
+    "link": "https://alist.hanze.icu/"
   },
   {
     "icon": "CompactDisc",
