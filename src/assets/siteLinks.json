@@ -10,14 +10,14 @@
     "link": "https://space.hanze.icu/"
   },
     {
-    "icon": "PenSquare",
+    "icon": "BellRegular",
     "name": "动态",
     "link": "https://life.hanze.icu/"
   },
   {
-    "icon": "Images",
+    "icon": "CameraRetro",
     "name": "相册",
-    "link": "https://yes.hanze.icu/"
+    "link": "https://gallery.hanze.icu/"
   },
   {
     "icon": "Cloud",
@@ -45,7 +45,7 @@
     "link": "https://pica.hanze.icu/"
   },
   {
-    "icon": "Images",
+    "icon": "PaintBrush",
     "name": "蓝P",
     "link": "https://pixiv.hanze.icu/"
   },
@@ -53,5 +53,10 @@
     "icon": "LaptopCode",
     "name": "监测",
     "link": "https://status.hanze.icu/"
+  },
+  {
+    "icon": "Eye",
+    "name": "视奸",
+    "link": "https://sleep.hanze.icu/"
   }
 ]
