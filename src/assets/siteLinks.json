@@ -1,38 +1,23 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.hanze.icu/"
+    "icon": "Video",
+    "name": "BiliBili",
+    "link": "https://www.bilibili.com/"
   },
   {
-    "icon": "PenSquare",
-    "name": "空间",
-    "link": "https://space.hanze.icu/"
-  },
-    {
-    "icon": "BellRegular",
-    "name": "动态",
-    "link": "https://life.hanze.icu/"
+    "icon": "Train",
+    "name": "ChinaEMU",
+    "link": "https://china-emu.cn/"
   },
   {
-    "icon": "CameraRetro",
-    "name": "相册",
-    "link": "https://gallery.hanze.icu/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://alist.hanze.icu/"
+    "icon": "Search",
+    "name": "铁路查询",
+    "link": "https://rail.re/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://yes.hanze.icu/"
-  },
-  {
-    "icon": "Compass",
-    "name": "导航",
-    "link": "https://nav.hanze.icu/"
   },
     {
     "icon": "Envelope",
@@ -40,23 +25,8 @@
     "link": "https://mail.hanze.icu/"
   },
   {
-    "icon": "Book",
-    "name": "哔咔",
-    "link": "https://pica.hanze.icu/"
-  },
-  {
-    "icon": "PaintBrush",
-    "name": "蓝P",
-    "link": "https://pixiv.hanze.icu/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "监测",
     "link": "https://status.hanze.icu/"
-  },
-  {
-    "icon": "Eye",
-    "name": "视奸",
-    "link": "https://sleep.hanze.icu/"
   }
 ]

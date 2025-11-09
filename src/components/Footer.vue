@@ -29,7 +29,7 @@
         <span>
           <span v-if="siteIcp">
             &amp;&nbsp;
-            <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
+            <a v-if="siteIcp" href="https://icp.gov.moe" target="_blank">
               {{ siteIcp }}
             </a>
           </span>
