@@ -28,5 +28,10 @@
     "icon": "LaptopCode",
     "name": "监测",
     "link": "https://status.hanze.icu/"
+  },
+  {
+    "icon": "Copyright",
+    "name": "版权声明",
+    "link": "https://copyright.hanze.icu/"
   }
 ]
