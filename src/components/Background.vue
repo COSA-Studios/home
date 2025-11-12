@@ -102,24 +102,24 @@ const changeBg = async (type) => {
         // 如果不需要区分设备类型，则只需要保留这一行 bgUrl.value = `/images/background${bgRandom}.jpg`;
         if (deviceType === 'mobile') {
           if (key) {
-            const bgUrlS = `/images/phone/backgroundphone${bgRandomp}.jpg`;
+            const bgUrlS = `/images/phone/backgroundphone${bgRandomp}.webp`;
             bgUrl.value = await gasC(bgUrlS, key);
           } else {
-            bgUrl.value = `/images/phone/backgroundphone${bgRandomp}.jpg`;
+            bgUrl.value = `/images/phone/backgroundphone${bgRandomp}.webp`;
           };
         } else if (deviceType === 'tablet' || deviceType === 'pc') {
           if (key) {
-            const bgUrlS = `/images/background${bgRandom}.png`;
+            const bgUrlS = `/images/background${bgRandom}.webp`;
             bgUrl.value = await gasC(bgUrlS, key);
           } else {
-            bgUrl.value = `/images/background${bgRandom}.png`;
+            bgUrl.value = `/images/background${bgRandom}.webp`;
           };
         } else {
           if (key) {
-            const bgUrlS = `/images/background${bgRandom}.png`;
+            const bgUrlS = `/images/background${bgRandom}.webp`;
             bgUrl.value = await gasC(bgUrlS, key);
           } else {
-            bgUrl.value = `/images/background${bgRandom}.png`;
+            bgUrl.value = `/images/background${bgRandom}.webp`;
           };
         };
       } else if (type == 1) {
@@ -127,7 +127,7 @@ const changeBg = async (type) => {
       } else if (type == 2) {
         bgUrl.value = "https://api-random.hanze.icu/api";
       } else if (type == 3) {
-        bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
+        bgUrl.value = "https://api-random-acg.hanze.icu/api";
       };
     } finally {
       isLoading.value = false;
